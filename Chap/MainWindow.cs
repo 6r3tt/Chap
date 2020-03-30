@@ -15,7 +15,7 @@ namespace Chap
     public partial class MainWindow : Form
     {
         int iMessageCount;
-        string strTextPath = @"C:\Users\elite\source\repos\6r3tt\Chap\Chap\writeread.txt";
+        string strTextPath = "..\\writeread.txt";
         
         public MainWindow()
         {
